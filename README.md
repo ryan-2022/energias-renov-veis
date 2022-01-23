@@ -5,19 +5,13 @@
 
 * **Energia solar:**  é a conversão direta da luz do sol em **energia** elétrica por meio das placas **solares** fotovoltaicas, tecnologia que tem suas origens em descobertas feitas ainda no século XIX e que, hoje, cresce no mundo todo permitindo aos consumidores economizarem em suas casas e empresas.
 
-  ```
-  ![campo de paineis solares](https://images.app.goo.gl/CwcTjBEbHigeWhto9)
-  ```
+  
 
 * **Energia eólica:** é a **energia** que provém do vento. Ela é produzida pela transformação da **energia** cinética do vento em **energia** elétrica. Essa transformação é realizada por uma turbina **eólica**, também chamada de aerogerador.
 
-  ! [aerogeradores] (https://images.app.goo.gl/AhXGucunugteZEHs7)
+  
 
 * **energia oceânica:** Também chamada **energia** das ondas, a **energia oceânica** é aquela que é obtida graças ao movimento gerado pelas marés. **É uma energia** renovável, com uma grande projeção do futuro, porque 70% do planeta é formado por água e, destes, 97% vem de mares e oceanos.
-
-  ```
-  ![exemplo de energia oceanica](https://images.app.goo.gl/kxJHatAYjjYjFWUd6)
-  ```
 
   
 
